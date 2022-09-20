@@ -1,0 +1,30 @@
+
+body{
+  background-color: #cfc0d6;
+  margin: 0;
+  padding: 0;
+}
+
+
+.main{
+  background-color: #645670;
+  height: auto;
+  color: #fff;
+  width: 500px;
+  padding: 40px 20px;
+  border-radius: 8px;
+  text-align: center;
+  margin: 100px auto;
+}
+
+.btn{
+  height: auto;
+  width: 60px;
+}
+
+#display{
+  width: 375px;
+  margin: 0px 38px;
+}
+
+
