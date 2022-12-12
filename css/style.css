@@ -1,25 +1,28 @@
 
 body{
-  background-color: #cfc0d6;
+  background-color: #a39e9e;
   margin: 0;
   padding: 0;
 }
 
 
 .main{
-  background-color: #645670;
+  background-color: #838386;
   height: auto;
   color: #fff;
   width: 500px;
   padding: 40px 20px;
   border-radius: 8px;
   text-align: center;
-  margin: 100px auto;
+  margin: 40px auto;
 }
 
 .btn{
   height: auto;
   width: 60px;
+  box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+  0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+
 }
 
 #display{
